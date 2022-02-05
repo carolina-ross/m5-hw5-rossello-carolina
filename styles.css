@@ -6,12 +6,11 @@
 
 /* Style Profile Photo */
     #me {
-	width: 240px;
-	height: 300px;
-	
-    }
+     width: 240px;
+     height: 300px;
+       }
 
 /* Style Paragraph */
-p {
+     main p {
 	padding: 20px;
-}
+       }
