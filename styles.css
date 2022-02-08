@@ -48,6 +48,8 @@
         background-color:#F2F1EE;
 	padding: 20px;
 	margin: 80px;
+	max-width: 800px;
+	float: left;
     }
 
 /* Style Paragraph in main content */
@@ -57,7 +59,9 @@
 
 /* Style Media Icon Links */
     .Connect-Menu {
-	float: right;
+	float: left;
+	max-width: 200px;
+
     }
 
     aside {
